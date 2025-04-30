@@ -74,7 +74,7 @@ Identified edge cases including:
 |--------|--------|
 | 📉 ~30% of customers placed only one order | Opportunity to improve retention |
 | 📈 High-value customers prefer specific payment methods | Optimize payment UX for them |
-| ⏱ Average delay between order and payment ~2.3 days | Improve payment conversion funnel |
+| ⏱ Average delay between order and payment ~21.5 days | Improve payment conversion funnel |
 | 🔁 Some orders have multiple failed payment attempts | Indicate friction in checkout |
 | 💸 Over 12% of payments have mismatched or partial amounts | Financial reconciliation risk |
 
