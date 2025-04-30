@@ -67,6 +67,13 @@ Identified edge cases including:
 
 ---
 
+### 📊 4. Customer Retention Visualization
+
+Here's a visualization of customer retention over a 6-month period:
+
+![Customer Retention Chart]("C:\Users\Sagar\OneDrive\Desktop\Projects for Resume\AltMobility Data Analysis\Vizualization.pdf")
+
+
 ## 💡 Key Insights
 
 | Insight | Impact |
