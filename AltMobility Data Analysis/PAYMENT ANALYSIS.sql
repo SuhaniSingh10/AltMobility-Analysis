@@ -55,7 +55,7 @@ JOIN customer_orders o ON o.order_id = p.order_id
 WHERE p.payment_status = 'completed';
 
 
--- 8. High Value Payments (Completed over 500)
+-- 8. High Value Payments (Completed over 400)
 
 SELECT * FROM payments
 WHERE payment_status = 'completed' AND payment_amount > 400
